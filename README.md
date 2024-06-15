@@ -21,9 +21,7 @@ This repository contains implementations of various data structures in different
 
 - C
 - C++
-- Java
-- Python
-- JavaScript
+
 
 ## How to Use
 
