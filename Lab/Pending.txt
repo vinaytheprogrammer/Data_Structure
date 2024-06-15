@@ -1,0 +1,27 @@
+1. stack using linked list
+2. stack using doubly list 
+3. stack using circularly linked list
+4. stack using circular doubly linked list
+
+5. queue using linked list
+6. queue using doubly list 
+7. queue using circularly linked list
+8. queve using circular doubly linked list
+
+9. stack using queue
+10. queve using stack
+
+11. sparse matrix using array and linked list
+12. long integer multiplication using linked list
+13. polynomial addition, multiplication, substraction
+
+14. Binary-Tree , Insertion ,Deletion of Node
+15. BInary Search Tree
+16. AVL Tree
+17. Expresion Tree
+18. Searching ,Sorting
+19. Graph, create Display
+20. Graph , DFS, BFS
+21. Graph, Undirected
+22. Graph, Prince Algorithm
+23. 
